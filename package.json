@@ -1,0 +1,19 @@
+{
+  "name": "test-debounce",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.15.8",
+    "@babel/preset-env": "^7.15.8",
+    "babel-jest": "^27.3.0",
+    "jest": "^27.3.0"
+  },
+  "dependencies": {
+    "sinon": "^11.1.2"
+  }
+}
